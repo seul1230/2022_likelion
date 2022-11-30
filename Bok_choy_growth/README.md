@@ -5,6 +5,8 @@
 ### 👫 Team
 오9오9 - 조예슬, 김예지, 이정은, 임종우, 권태윤
 
+<br/>
+
 ### 🗂️ Data
 <p align='center'><img src='/Bok_choy_growth/img/bok_choy_contest.png'></p>
 
