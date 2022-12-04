@@ -20,6 +20,8 @@ dacon AI 경진대회 : **청경채 성장률 예측하기**
 주소 : [https://dacon.io/competitions/official/235961/overview/description](https://dacon.io/competitions/official/235961/overview/description)        
   
 📜 notion : https://www.notion.so/MINI5-AI-b031d68247e24a30b192b24c522284d1
+
+<br/>
   
 ### 📃 summary     
 <p align='center'><img src="https://user-images.githubusercontent.com/72390138/205493735-e21c9908-44e8-45e9-8a9c-f3942f203fa7.png" weight="350" height="350"></p>    
@@ -30,6 +32,7 @@ dacon AI 경진대회 : **청경채 성장률 예측하기**
 따라서, **인공지능(AI)을 활용하여 국내 고유 식물 자원에서 유용한 천연물 소재를 탐색하고, 그 효능과 활성 등에 대해 연구하는 것이 목표**입니다.     
 실제 AI를 이용한 작물을 재배하는 스마트팜과 같은 곳에 유용하게 사용될 것입니다.      
   
+<br/><br/>
   
 ### 🗂 Data info.     
 **dacon 청경채 예측 데이터** : [https://dacon.io/competitions/official/235961/data](https://dacon.io/competitions/official/235961/data)   
@@ -46,18 +49,25 @@ dacon AI 경진대회 : **청경채 성장률 예측하기**
 train(input+target) (1813, 43)         
 test(input+target) (195, 43)            
   
+<br/><br/>
   
 ### 📊 Visualization
 1️⃣ 내부온도관측치, 내부습도관측치, 총추정광량, 월별 rate        
 ![image](https://user-images.githubusercontent.com/72390138/205497279-d59cb01a-a52e-44f7-9cef-c34381f8fcfd.png)              
 
+<br/>
+
 2️⃣ 적색, 청색, 백색, 총추 추정광량 별 rate
 ![image](https://user-images.githubusercontent.com/72390138/205497255-0030b727-3f14-4c07-b22b-806a05334616.png)             
 백색과 총추는 100에서, 적색과 청색은 0에서 성장률이 높다.     
+
+<br/>
   
 3️⃣ EC와 CO2의 냉방상태       
 ![image](https://user-images.githubusercontent.com/72390138/205496256-fe545a8c-16b8-4644-a339-030a2d05f271.png)       
 EC관측치가 클수록 냉방상태는 적었으며, 반대로 작을수록 냉방상태는 높은 것을 확인할 수 있다.   
+
+<br/>
 
 4️⃣ 각 CASE 별 잎면적 증감률(rate) 변화      
 ![image](https://user-images.githubusercontent.com/72390138/205496376-956636fd-c78d-433e-b690-bdb8764cfe71.png)      
