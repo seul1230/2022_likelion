@@ -5,11 +5,7 @@
 ### 👫 Team
 오9오9 - 조예슬, 김예지, 이정은, 임종우, 권태윤
 
-<br/>
 
-### 🗂️ Data
-
-[청경채 성장 예측 AI 경진대회](https://dacon.io/competitions/official/235961/data)에서 제공된 데이터를 다운받아 이용하였다. 
 
 <br/>
 
@@ -35,13 +31,19 @@ dacon AI 경진대회 : **청경채 성장률 예측하기**
 <br/><br/>
   
 ### 🗂 Data info.     
-**dacon 청경채 예측 데이터** : [https://dacon.io/competitions/official/235961/data](https://dacon.io/competitions/official/235961/data)   
 
-**📁 train input dataset[folder]**       
+**dacon 청경채 예측 데이터** : [https://dacon.io/competitions/official/235961/data](https://dacon.io/competitions/official/235961/data) 
+[청경채 성장 예측 AI 경진대회](https://dacon.io/competitions/official/235961/data)에서 제공된 데이터를 다운받아 이용하였다. 
+
+<br/>
+
+**📁 train input dataset[folder]**   
+
 ![image](https://user-images.githubusercontent.com/72390138/205494867-68e0c49a-3740-4fe4-8812-da281ace0524.png)    
 총 58개 청경채 케이스를 각 청경채 케이스 별 환경 데이터(1분 간격)으로 구성되어 있음      
 
 **📁 train target dataset[folder]**                  
+
 <img src="https://user-images.githubusercontent.com/72390138/205494955-e4752ba6-3a90-41de-a1ee-ec2929ea8dd6.png" weight="300" height="500">     
 총 58개 청경채 케이스를 rate column의 각 청경채 케이스 별 잎 면적 증감률(1일 간격)로 구성되어 있음       
 
