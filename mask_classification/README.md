@@ -13,8 +13,6 @@
 Classify between Face with mask and no mask
 
 
-
-
 <br/>
   
 ### 🗂 Data 
