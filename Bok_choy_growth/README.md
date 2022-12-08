@@ -1,6 +1,6 @@
 # Bok_choy_growth
 
-2022 likelion ais7 Mini Project 4
+2022 likelion ais7 Mini Project 5
 
 ### 👫 Team
 오9오9 - 조예슬, 김예지, 이정은, 임종우, 권태윤
