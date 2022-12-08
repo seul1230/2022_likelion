@@ -12,11 +12,11 @@
 ## 😷 Face Mask Classification 😷
 Classify between Face with mask and no mask
 
-<p align='center'><img src='img/mask_classification_competition.png'></p>   
+<p align='center'><img src='../img/mask_classification_competition.png'></p>   
 
 
 
-<br/>><br/>
+<br/><br/>
   
 ### 🗂 Data 
 
@@ -29,13 +29,13 @@ Classify between Face with mask and no mask
 
 **📁 with_mask [folder]**   
 
-<p align='center'><img src='img/with_mask.png'></p>  
+<p align='center'><img src='../img/with_mask.png'></p>  
 
 마스크를 착용한 사진 220장을 포함하고 있음  <br/>
 
 **📁 without_mask [folder]**                  
 
-<p align='center'><img src='img/without_mask.png'></p>  
+<p align='center'><img src='../img/without_mask.png'></p>  
 
 마스크 미착용한 사진 220장을 포함하고 있음   <br/>
 
