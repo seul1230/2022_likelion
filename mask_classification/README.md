@@ -42,3 +42,9 @@ Classify between Face with mask and no mask
 
 <br/>
 
+
+### ❤️‍🔥 팀원들 사진으로 성능 평가하기
+
+<p align='center'>
+<img src='../img/team_members.png' width='95%'>
+</p>
