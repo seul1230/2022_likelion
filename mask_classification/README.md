@@ -28,7 +28,7 @@ Classify between Face with mask and no mask
 
 마스크를 착용한 사진 220장을 포함하고 있음  
 
-<p align='center'><img src='../img/with_mask.png' width='70%'></p>  
+<p align='center'><img src='../img/with_mask.png' width='400px'></p>  
 
 
 <br/>
@@ -37,7 +37,7 @@ Classify between Face with mask and no mask
 
 마스크 미착용한 사진 220장을 포함하고 있음   
 
-<p align='center'><img src='../img/without_mask.png' width='70%'></p>  
+<p align='center'><img src='../img/without_mask.png' width='400px'></p>  
 
 
 <br/>
@@ -46,5 +46,5 @@ Classify between Face with mask and no mask
 ### ❤️‍🔥 팀원들 사진으로 성능 평가하기
 
 <p align='center'>
-<img src='../img/team_members.png' width='95%'>
+<img src='../img/team_members.png' width='500px'>
 </p>
