@@ -41,12 +41,12 @@
 
 ***
 
-### EDA
+### 📊 EDA
 
 **각 라벨에 대한 빈도수**
 
 <p align='center'>
-<img src='../img/sentence_category_labels.png'>
+<img src='../img/sentence_category_labels.png' width='800px'>
 </p>
 
 <br/>
@@ -54,5 +54,5 @@
 **통합 라벨에 대한 빈도수**
 
 <p align='center'>
-<img src='../img/sentence_category_label.png'>
+<img src='../img/sentence_category_label.png' width='500px'>
 </p>
