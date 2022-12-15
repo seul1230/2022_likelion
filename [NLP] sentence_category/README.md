@@ -54,5 +54,5 @@
 **통합 라벨에 대한 빈도수**
 
 <p align='center'>
-<img src='../img/sentence_category_label.png' width='500px'>
+<img src='../img/sentence_category_label.png' width='700px'>
 </p>
