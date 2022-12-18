@@ -11,6 +11,10 @@
 
 <br/>
 
+<p align='center'>
+<img src='../img/sentence_category_competition.png'>
+</p>
+
 ### 📌 Background
 
 ```
